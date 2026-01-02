@@ -71,6 +71,15 @@ export default function App() {
           <button onClick={next}>›</button> 
         </div>
 
+        <div className='profile'>
+          <img src='/portrait.jpg' alt='An image of myself' />
+          <p>
+            I'm currently a student at the University of Alabama in Huntsville pursuing a BS in Computer Engineering.
+            My big interests are music production and sim racing. 
+            I pursue engineering projects in these fields and learn tons along the way. 
+          </p>
+        </div>
+
         <div className="card">
           <button onClick={() => setCount((count) => count + 1)}>
             count is {count}
@@ -79,6 +88,7 @@ export default function App() {
             Work in Progress (as you can tell lol)...
           </p>
         </div>
+        
       </div>
     </>
   )

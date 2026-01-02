@@ -81,3 +81,15 @@ header h1 {
   text-align: center; 
   color: #fff; 
 }
+
+/* Profile Card ****************************************************/
+.profile {
+  max-width: clamp(24rem, 60vw, 48rem); 
+  margin-bottom: clamp(1.5rem, 4vw, 3rem);
+  margin-left: clamp(2rem, 5vw, 4rem);
+}
+.profile img {
+  width: clamp(8rem, 20vw, 16rem);
+  margin-top: clamp(1rem, 2.5vw, 2rem);
+  box-shadow: clamp(1rem, 2.5vw, 2rem) clamp(-1rem, -2.5vw, -2rem) 0 navy;
+}
