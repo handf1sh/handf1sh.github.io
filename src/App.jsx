@@ -53,7 +53,7 @@ export default function App() {
         <div className='links'>
           <a href="mailto:luke.hezel@gmail.com">Email</a>
           <a href="https://www.linkedin.com/in/luke-hezel-83545628a">LinkedIn</a>
-          <a href="https://github.com/l-heze-l">Github</a>
+          <a href="https://github.com/handf1sh">Github</a>
         </div>
       </div>
 
