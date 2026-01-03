@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://l-heze-l.github.io/lukasPortfolio",
+  "homepage": "https://handf1sh.github.io/lukasPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
